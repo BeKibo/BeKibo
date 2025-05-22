@@ -1,7 +1,4 @@
-<!-- Bannière personnalisée -->
-<p align="center">
-  <img src="BANNER_IMAGE_URL" alt="Front End Design" />
-</p>
+
 
 <h1 align="center">Salut, moi c'est BeKibo 👋</h1>
 
@@ -35,9 +32,3 @@
 ---
 
 ## 🙏 Merci de ta visite !
-
-<p align="center">
-  <img src="FOOTER_IMAGE_URL" alt="Merci de ta visite" width="200"/>
-  <br/>
-  <i>Ce n’est que le début. Restons connectés !</i>
-</p>
